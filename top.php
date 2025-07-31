@@ -17,6 +17,26 @@
         }, 100);
       });
     </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "ZAPPA Worldillia",
+        "url": "https://zappaworldillia.com", 
+        "logo": "https://zappaworldillia.com/images/ZAPPA-Worldillia-logo.png",
+        "description": "ザッパワールディリアでは、作曲、DJ、音響編集などのご依頼を受付中。フリーBGMも配布中。お気軽にご利用・ご相談ください。",
+        "sameAs": [
+          "https://note.com/zappaworldillia",
+          "https://X.com/zappa_great", 
+          "https://youtube.com/@thezappagreat" 
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "customer support",
+          "availableLanguage": ["ja"]
+        }
+      }
+    </script>
   </head>
   <body>
   <header>
