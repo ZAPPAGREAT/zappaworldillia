@@ -21,7 +21,7 @@ INSERT INTO bgm_tracks (`id`, `title`, `genre`, `file_path`, `keywords`, `player
 (6, '妖精さんたちとの森のお茶会', '吹奏楽', '/patch/妖精さんたちとの森のお茶会.zip', '吹奏楽 ほのぼの 日常 コミカル かわいい フルート', '<audio controls controlsList="nodownload"  src="/audio/妖精さんたちとの森のお茶会.mp3"></audio>'),
 (7, 'おつきさまがみまもっている', 'オルゴール', '/patch/おつきさまがみまもっている.zip', 'オルゴール ほのぼの 回想 子守唄 かわいい ミュージックボックス', '<audio controls controlsList="nodownload"  src="/audio/おつきさまがみまもっている.mp3"></audio>'),
 (8, '熱い心', 'ロック', '/patch/熱い心.zip', 'ロック シリアス 戦闘 白熱 かっこいい エレキギター バンドミュージック', '<audio controls controlsList="nodownload"  src="/audio/熱い心.mp3"></audio>'),
-(9, 'Retro Party！！', 'チップチューン', '/patch/Retro Party!!.zip', 'ポップス ファミコン 楽しい ゲーム かわいい チップチューン', '<audio controls controlsList="nodownload"  src="/audio/Retro Party!!.mp3"></audio>'),
+(9, 'Retro Party！！', 'チップチューン', '/patch/Retro Party!!.zip', 'ポップス ファミコン 楽しい ゲーム かわいい チップチューン', '<audio controls controlsList="nodownload"  src="/audio/Retro Party！！.mp3"></audio>'),
 (10, 'Crazy Rabbit`s Laugh', 'ジャズ', '/patch/Crazy Rabbit`s Laugh.zip', 'ジャズ 騒がしい 楽しい ハイテンション コミカル ビッグバンド', '<audio controls controlsList="nodownload"  src="/audio/Crazy Rabbit`s Laugh.mp3"></audio>'),
 (11, '気ままな人', 'ピアノ', '/patch/気ままな人.zip', 'ほのぼの 日常 かわいい 優雅 コミカル ピアノ', '<audio controls controlsList="nodownload"  src="/audio/気ままな人.mp3"></audio>'),
 (12, 'フルート吹きの愉快な休日', '吹奏楽', '/patch/フルート吹きの愉快な休日.zip', 'ほのぼの 日常 かわいい コミカル フルート ピアノ', '<audio controls controlsList="nodownload"  src="/audio/フルート吹きの愉快な休日.mp3"></audio>'),
