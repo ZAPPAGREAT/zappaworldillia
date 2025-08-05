@@ -93,7 +93,7 @@
           <div class="news-list">
             <div class="news-item">
               <span class="news-date">2025年07/30日(wed)</span>
-              <p>【Home】サイト名とロゴに動きを付けて、背景も追加しました。</p>
+              <p>【Top】サイト名とロゴに動きを付けて、背景も追加しました。</p>
             </div>
             <div class="news-item">
               <span class="news-date">2025年07/28日(mon)</span>
