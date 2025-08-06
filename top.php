@@ -5,6 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ザッパワールディリア</title>
     <meta name="description" content="ザッパワールディリアでは、作曲、DJ、音響編集などのご依頼を受付中。フリーBGMも配布中。お気軽にご利用・ご相談ください。">
+    <!-- ▼ OGP ▼ -->
+    <meta property="og:title" content="ZAPPA Worldillia｜作曲・音響・DJの公式サイト">
+    <meta property="og:description" content="ザッパワールディリアでは、作曲、DJ、音響編集などのご依頼を受付中。フリーBGMも配布中。お気軽にご利用・ご相談ください。">
+    <meta property="og:url" content="https://zappaworldillia.com/">
+    <meta property="og:image" content="https://zappaworldillia.com/images/zappaworldillia-og.jpg">
+    <meta property="og:site_name" content="ZAPPA Worldillia">
+    <meta property="og:type" content="website">
+
+    <!-- ▼ Twitterカード▼ -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@zappa_great">
+    <meta name="twitter:title" content="ZAPPA Worldillia｜作曲・音響・DJの公式サイト">
+    <meta name="twitter:description" content="作曲、DJ、音響編集などのご依頼受付中。フリーBGMも配布中！">
+    <meta name="twitter:image" content="https://zappaworldillia.com/images/zappaworldillia-og.jpg">
+    
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico">    <link rel="stylesheet" href="https://unpkg.com/ress@4.0.0/dist/ress.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/stylesheet.css">
